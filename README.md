@@ -13,6 +13,7 @@ this repository contain 3D cads, codes and arduino schematics for makinh 3d PID 
 
 
 # Repositoty tree
+```
 .
 ├── balance_3D_files
 │   ├── 6. Small_gear (2x).stl
@@ -34,7 +35,7 @@ this repository contain 3D cads, codes and arduino schematics for makinh 3d PID 
 ├── photo.jpg
 ├── poster.pdf
 ├── sensor scheme.png
-
+```
 **you should add *GP2Y0E03.zip* to package list of ardoino IDE**
 
 **in `sensor scheme.png` you can see how to connect the sensor to the board**
